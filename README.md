@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 About Me:<br><br>🔭 I'm currently working on AI/ML projects and innovative web applications.<br><br>👯 I'm looking to collaborate on Open-source projects, Hackathons, AI/ML and Web Development.<br><br>🤝 I'm looking for help with Advanced Machine Learning, Cloud Computing and real-world AI applications.<br><br>🌱 I'm currently learning Data Structures & Algorithms, Python, Machine Learning and Full-Stack Development.<br><br>💬 Ask me about Python, AI/ML, Web Development, Hackathons and Tech Communities.<br><br>⚡ Fun fact: I love turning creative ideas into real-world tech solutions and exploring new technologies!
+👩‍💻 About Me:<br><br>🔭 I'm currently working on AI/ML projects and innovative web applications.<br><br>👯 I'm looking to collaborate on Open-source projects, Hackathons, AI/ML and Web Development.<br><br>🤝 I'm looking for help with Advanced Machine Learning, Cloud Computing and real-world AI applications.<br><br>🌱 I'm currently learning Data Structures & Algorithms, Python, Machine Learning and Full-Stack Development.<br><br>💬 Ask me about Python, AI/ML, Web Development, Hackathons and Tech Communities.<br><br>⚡ Fun fact: I love turning creative ideas into real-world tech solutions and exploring new technologies.
 
 
 ## 🌐 Socials:
